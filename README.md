@@ -1,11 +1,11 @@
 ### Hey, my name is Moritz - aka inception 👋
 
-## I am a Student and Developer
-- 🎆 I'm currently working on the Inception Cloud project
-- 🎮 I'm coding a Minecraft PvP Client for 1.8.8 (and more coming soon)
-- 😍 I fell in love with Kotlin after having used Java for about 4 years
-- 🤔 I have a some experience in Web Development (more backend than frontend)
-- 🤓 I want to learn .NET because I heard it's very powerful
+## I am a Poop and i poop
+- 🎆 I'm currently working on the Poop project
+- 🎮 I'm coding a Poop (and more coming soon)
+- 😍 I fell in love with Poop after having used Poop for about 4 years
+- 🤔 I have a some experience in pooping (more backend than frontend)
+- 🤓 I want to learn pooping because I heard it's very powerful
 
 ## Find me here:
 
