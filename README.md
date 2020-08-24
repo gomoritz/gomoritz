@@ -14,7 +14,11 @@
 [<img align="left" alt="theincxption | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+<br/>
+<br/>
+
 ---
+
 
 <img align="left" alt="incxption's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=incxption&show_icons=true&hide_border=true&count_private=true">
 
