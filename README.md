@@ -32,10 +32,6 @@
 
 <br/>
 
-## Recent GitHub activity
-
-<!--START_SECTION:activity-->
-
 ## GitHub Stats (I need to improve them 😅)
 
 <img align="left" alt="incxption's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=incxption&show_icons=true&hide_border=true&count_private=true">
