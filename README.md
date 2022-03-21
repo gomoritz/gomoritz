@@ -19,16 +19,14 @@
 
 # Hey, my name is Moritz - aka inception 👋
 
-## I am a Student and Developer
-- 🎆 I am currently working on the Inception Cloud project
-- 🎮 I coded a Minecraft PvP Client for 1.8.8
+## I am a student and software developer
+- 🎆 I am currently working on the studypilot app
+- 🤓 I spent the last months working with Web Technologies (backend & frontend)
+- 🎮 I coded a Minecraft PvP Client
 - 😍 I fell in love with Kotlin after having used Java for about 4 years
-- 🤓 I spent the last months expanding my knowledge about Web Technologies (backend & frontend)
 
 ## Find me here
 
-[<img alt="theincxption | Website" src="https://img.shields.io/static/v1?label=Website&message=InceptionCloud&color=a55eea&style=for-the-badge&logo=none" />][website]&nbsp;
-[<img alt="theincxption | YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />][youtube]&nbsp;
 [<img alt="theincxption | Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]&nbsp;
 [<img alt="theincxption | Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]&nbsp;
 [<img alt="theincxption | Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />][discord]&nbsp;
@@ -40,8 +38,6 @@
 <img align="left" alt="incxption's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=incxption&show_icons=true&hide_border=true&count_private=true&theme=ayu-mirage">
 <img align="left" alt="incxption's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=incxption&hide_border=true&count_private=true&theme=ayu-mirage">
 
-[website]: https://goessl.me
-[youtube]: https://www.youtube.com/channel/UCK8gvuRo5wdSeWLSpP5sYNg
 [twitter]: https://twitter.com/theincxption
 [instagram]: https://instagram.com/theincxption
-[discord]: https://icnet.dev/discord
+[discord]: https://discord.gg/z7V7T8Btxc
