@@ -14,7 +14,7 @@
 # Hey, my name is Moritz 👋
 
 ## I am a student and software developer
-I develop applications for the web, desktop and mobile using a variety of different technologies. My current project is [studypilot][https://studypilot.app],
+I develop applications for the web, desktop and mobile using a variety of different technologies. My current project is [studypilot](https://studypilot.app),
 an all-in-one multiplatform app for managing your schoolday. Feel free to explore some of my other projects and repositories!
 
 ## Find me here
