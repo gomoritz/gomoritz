@@ -21,4 +21,4 @@ an all-in-one multiplatform app for managing your schoolday. Feel free to explor
 
 ## GitHub Stats
 
-<img align="left" alt="incxption's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=incxption&hide_border=true&count_private=true&theme=ayu-mirage">
+<img align="left" alt="incxption's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomoritz&hide_border=true&count_private=true&theme=ayu-mirage">
