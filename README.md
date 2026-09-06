@@ -1,24 +1,41 @@
+<h1 align="center">Hi, I'm Moritz. I build software, and small companies.</h1>
+
 <p align="center">
-   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>&nbsp;
-   <img src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>&nbsp;
-   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>&nbsp;
-   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>&nbsp;
-   <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>&nbsp;
-   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>&nbsp;
-   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>&nbsp;
-   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>&nbsp;
-   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>&nbsp;
-   <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>&nbsp;
+  <a href="https://www.studypilot.app">studypilot.app</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/moritz-goessl/">LinkedIn</a>
 </p>
-
-# Hey, my name is Moritz 👋
-
-## I am a student and software developer
-I develop applications for the web, desktop and mobile using a variety of different technologies. My current project is [studypilot](https://studypilot.app),
-an all-in-one multiplatform app for managing your schoolday. Feel free to explore some of my other projects and repositories!
 
 <br/>
 
-## GitHub Stats
+I'm a software engineer from Nuremberg, Germany. Most of my time goes into [studypilot](https://www.studypilot.app), the app for students that I co-founded while I was still one myself. Alongside that I study computer science at FAU Erlangen-Nürnberg and work as a fullstack developer at [insert effect](https://inserteffect.com).
 
-<img align="left" alt="incxption's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomoritz&hide_border=true&count_private=true&theme=ayu-mirage">
+### Now
+
+- **[studypilot](https://www.studypilot.app/)** · Co-founder, responsible for everything technical: architecture, apps, backend, infrastructure and releases. An all-in-one app for school with timetable, grades, homework, notes and more on iOS, Android, macOS and Windows. It started in a classroom during the pandemic, and today whole schools plug their systems into it. Along the way we got third place at the [didacta Start-up Award](https://www.didacta.de/didacta-start-up-award-2025) and learned a lot about building software for schools.
+- **[insert effect](https://inserteffect.com/)** · Working student, fullstack. Web apps and mobile apps for everyone.
+- **FAU Erlangen-Nürnberg** · B.Sc. Computer Science, focusing on artificial intelligence.
+
+### Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,react,nodejs,electron,flutter,kubernetes,docker,rabbitmq,swift,kotlin,java,py&theme=dark" alt="TypeScript, React, Node.js, Electron, Flutter, Kubernetes, Docker, RabbitMQ, Swift, Kotlin, Java, Python" />
+</p>
+
+TypeScript from end to end: React in the browser, Node.js on the server, Electron and Capacitor for desktop and mobile. I run the infrastructure myself on Kubernetes at Hetzner. I like building software together with coding agents, and keeping our own servers boring and reliable.
+
+### Then
+
+I started software development with Java as a kid because I wanted to change how Minecraft looked. That grew into [Dragonfly](https://github.com/dragonflyclient), a Minecraft client with its own launcher, injection system and a Kotlin backend, which a few friends and I built and shipped. It was my first project with real users, and many habits I still have come from that time.
+
+### Off the clock
+
+When something in my life bugs me, I usually end up writing a tool for it: [gym-bro](https://github.com/gomoritz/gym-bro) for tracking my workouts, [spotify-composer](https://github.com/gomoritz/spotify-composer) for merging playlists by swiping through songs. A few of the smaller ones are public in my repositories.
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gomoritz/gomoritz/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gomoritz/gomoritz/output/github-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/gomoritz/gomoritz/output/github-snake.svg" width="100%" />
+</picture>
